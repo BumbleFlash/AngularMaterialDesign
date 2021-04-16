@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'MaterialDesign';
+  isChecked = true;
+
+  onChange($event): void {
+    console.log($event);
+  }
 }
