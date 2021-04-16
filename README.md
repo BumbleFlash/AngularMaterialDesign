@@ -1,5 +1,5 @@
 # AngularMaterialDesign
-A simple angular project to demonstrate Angular Material Design. 
+A simple angular project to demonstrate Angular Material Design to test coninuous delivery on GitHub. 
 
 ## MaterialDesign
 
